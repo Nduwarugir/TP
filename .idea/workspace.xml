@@ -4,53 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="f9892c00-4d48-4db9-99b0-131b5189d76a" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/TP.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/includes/Etudiant.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/includes/Etudiant2.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/log.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/FileDemo.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/MainEtudiant.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/TestCol.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/TestMain.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/TestP.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/TestPoint.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/td/td1/Exercice1.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/td/td1/Exercice10.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/td/td1/Exercice11.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/td/td1/Exercice12.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/td/td1/Exercice13.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/td/td1/Exercice14.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/td/td1/Exercice15.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/td/td1/Exercice16.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/td/td1/Exercice17.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/td/td1/Exercice2.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/td/td1/Exercice3.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/td/td1/Exercice4.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/td/td1/Exercice5.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/td/td1/Exercice6.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/td/td1/Exercice7.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/td/td1/Exercice8.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/td/td1/Exercice9.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/td/td2/app1_2/Point.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/td/td2/app3/Diviser.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/td/td3/Affichable.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/td/td3/Compte.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/td/td3/CompteEpargne.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/td/td3/CompteSecurise.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/td/td3/Float.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/td/td3/Integer.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/td/td3/Point.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/td/td3/Pointcol.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/tp/l1/Etudiant.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/tp/l1/EtudiantInterface.java" afterDir="false" />
-    </list>
+    <list default="true" id="f9892c00-4d48-4db9-99b0-131b5189d76a" name="Changes" comment="Test Commit" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -142,8 +96,16 @@
       <workItem from="1667305062317" duration="1875000" />
       <workItem from="1667338040820" duration="3939000" />
       <workItem from="1667500010042" duration="10961000" />
-      <workItem from="1667580813477" duration="613000" />
+      <workItem from="1667580813477" duration="1261000" />
     </task>
+    <task id="LOCAL-00001" summary="Test Commit">
+      <created>1667581919089</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1667581919089</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -162,6 +124,8 @@
   </component>
   <component name="VcsManagerConfiguration">
     <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
+    <MESSAGE value="Test Commit" />
+    <option name="LAST_COMMIT_MESSAGE" value="Test Commit" />
   </component>
   <component name="XSLT-Support.FileAssociations.UIState">
     <expand />
